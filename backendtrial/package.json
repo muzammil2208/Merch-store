@@ -1,0 +1,14 @@
+{
+  "name": "backendtrial",
+  "version": "1.0.0",
+  "description": "Just on trial basis",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Muzammil Khan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
